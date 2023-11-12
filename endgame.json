@@ -5,56 +5,56 @@
     "name": "Robert Downey Jr.",
     "birth_date": "1965-04-04",
     "role": "Tony Stark",
-    "photo": "https://www.imdb.com/name/nm0000375/mediaviewer/rm421447168/?ref_=nm_ov_ph"
+    "photo": "https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_.jpg"
   },
   {
     "no": "2",
     "name": "Chris Evans",
     "birth_date": "1981-06-13",
     "role": "Steve Rogers",
-    "photo": "https://www.imdb.com/name/nm0262635/mediaviewer/rm1966443008/?ref_=nm_ov_ph"
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_FMjpg_UX1000_.jpg"
   },
   {
     "no": "3",
     "name": "Scarlett Johansson",
     "birth_date": "1984-11-22",
     "role": "Natasha Romanoff",
-    "photo": "https://www.imdb.com/name/nm0424060/mediaviewer/rm1916122112/?ref_=nm_ov_ph"
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_.jpg"
   },
   {
     "no": "4",
     "name": "Chris Hemsworth",
     "birth_date": "1983-08-11",
     "role": "Thor",
-    "photo": "https://www.imdb.com/name/nm1165110/mediaviewer/rm3936529408/?ref_=nm_ov_ph"
+    "photo": "https://m.media-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_FMjpg_UX1000_.jpg"
   },
   {
     "no": "5",
     "name": "Brie Larson",
     "birth_date": "1989-10-01",
     "role": "Carol Danvers",
-    "photo": "https://www.imdb.com/name/nm0488953/mediaviewer/rm3854566145/?ref_=nm_ov_ph"
+    "photo": "https://m.media-amazon.com/images/M/MV5BNDE4ZWY1ZTUtYjNhMy00MTQyLWFmMjktNTkyYTFjOGRlNDk0XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg"
   },
   {
     "no": "6",
     "name": "Paul Rudd",
     "birth_date": "1969-04-06",
     "role": "Scott Lang",
-    "photo": "https://www.imdb.com/name/nm0748620/mediaviewer/rm731323904/?ref_=nm_ov_ph"
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTY4NTEwNDg1MV5BMl5BanBnXkFtZTgwODMwMDA0ODE@._V1_.jpg"
   },
   {
     "no": "7",
     "name": "Tom Holland",
     "birth_date": "1996-06-01",
     "role": "Peter Parker",
-    "photo": "https://www.imdb.com/name/nm4043618/mediaviewer/rm662558465/?ref_=nm_ov_ph"
+    "photo": "https://m.media-amazon.com/images/M/MV5BNzZiNTEyNTItYjNhMS00YjI2LWIwMWQtZmYwYTRlNjMyZTJjXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_FMjpg_UX1000_.jpg"
   },
   {
     "no": "8",
     "name": "Jeremy Renner",
     "birth_date": "1971-01-07",
     "role": "Clint Barton",
-    "photo": "https://www.imdb.com/name/nm0719637/mediaviewer/rm3197809920/?ref_=nm_ov_ph"
+    "photo": "https://m.media-amazon.com/images/M/MV5BOTk2NDc2ODgzMF5BMl5BanBnXkFtZTcwMTMzOTQ4Nw@@._V1_FMjpg_UX1000_.jpg"
   }
  ]
 }
